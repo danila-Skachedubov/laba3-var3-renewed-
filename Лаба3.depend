@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1587637916 source:d:\Данила\Учеба\Языки программирования С++\Лаба3\main.cpp
+	<iostream>
+	"transportvehicle.h"
+	"Car.h"
+	"Passengercar.h"
+	"Plane.h"
+	"Ship.h"
+	"bus.h"
+
+1587632903 source:d:\Данила\Учеба\Языки программирования С++\Лаба3\transportvehicle.cpp
+	<iostream>
+	"transportvehicle.h"
+
+1587628303 d:\Данила\Учеба\Языки программирования С++\Лаба3\transportvehicle.h
+	<iostream>
+
+1587632903 source:d:\Данила\Учеба\Языки программирования С++\Лаба3\car.cpp
+	<iostream>
+	"transportvehicle.h"
+	"Car.h"
+
+1587632903 d:\Данила\Учеба\Языки программирования С++\Лаба3\car.h
+	<iostream>
+
+1587632903 d:\Данила\Учеба\Языки программирования С++\Лаба3\passengercar.h
+	<iostream>
+
+1587632903 source:d:\Данила\Учеба\Языки программирования С++\Лаба3\passengercar.cpp
+	<iostream>
+	"transportvehicle.h"
+	"Car.h"
+	"Passengercar.h"
+
+1587632903 d:\Данила\Учеба\Языки программирования С++\Лаба3\plane.h
+
+1587475511 d:\Данила\Учеба\Языки программирования С++\Лаба3\ship.h
+
+1587632903 source:d:\Данила\Учеба\Языки программирования С++\Лаба3\plane.cpp
+	"transportvehicle.h"
+	"Plane.h"
+
+1587477377 source:d:\Данила\Учеба\Языки программирования С++\Лаба3\ship.cpp
+	"transportvehicle.h"
+	"Ship.h"
+
+1587632903 source:d:\Данила\Учеба\Языки программирования С++\Лаба3\bus.cpp
+	<iostream>
+	"transportvehicle.h"
+	"Car.h"
+	"bus.h"
+
+1587632903 d:\Данила\Учеба\Языки программирования С++\Лаба3\bus.h
+	<iostream>
+
